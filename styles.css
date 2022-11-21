@@ -1,0 +1,48 @@
+.grid {
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: solid black 2px;
+    margin: 100px;
+    margin-left: 650px;
+    margin-top: 200px;
+    border-radius: 10px;
+    
+
+
+    
+
+}
+
+.block {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(80, 80, 226);
+    border-radius: 10px;
+}
+
+.user {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(228, 65, 65);
+    border-radius: 10px;
+}
+
+.ball{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+#score {
+    text-align: center;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: aliceblue;
+}
